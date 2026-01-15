@@ -1,0 +1,1 @@
+MapsGame é uma aplicação web de exploração geográfica inspirada no clássico GeoGuessr, desenvolvida com o framework Astro. O objetivo é simples: o jogador é "jogado" em um local aleatório do mundo através do Google Street View e deve marcar no mapa onde acredita estar. Quanto mais próxima a marcação, maior a pontuação.
